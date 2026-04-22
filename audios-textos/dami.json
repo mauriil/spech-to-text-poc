@@ -1,7 +1,0 @@
-{
-  "text": "Tengo una aplicación que me trae noticias de fuentes RSS, los XML, con un sistemita de búsqueda, de filtrado de noticias por keyboards o incluso búsquedas. Está funcionando todo, lo que sí ahora me voy con el problema de que hay noticias o fuentes RSS globales hay como mil, son unas bandas, yo pensé que iban a tener 5 cada usuario, como tienen feed por usuario no tenían mucho drama, pero escaló a que necesitan que hayan noticias que vienen de fuentes RSS globales, y bueno son como mil, literal, RSS, o sea mil enlaces que tienen que traer los XML y mandarlos al front, como la RSS no me deja hacer la búsqueda con parámetros, tengo que traer el title, el snippet y el link que son los campos que trae, fecha de publicación y otras cosas, pero no es muy relevante eso, y buscar, ya sea en el título o en el snippet, las palabras claves, y si están, bueno, hago un filtro en el front y todo ese historieta. ¿Qué pasa? Ese proceso de traer mil RSS está siendo muy pesado, muy lento y obviamente no termina nunca de cargar la data. Entonces me había ocurrido, a ver si estoy pensando bien, o si usted conoce alguna otra solución más práctica, se me había ocurrido esto.",
-  "usage": {
-    "type": "duration",
-    "seconds": 117
-  }
-}

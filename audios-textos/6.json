@@ -1,7 +1,0 @@
-{
-  "text": "en el trabajo, debería encontrar todas las tres tablas. OK, una vez que ha agarrado todas estas tres tablas, debería empezar a procesarlas. Entonces, aquí tenemos que hacer ese cambio. Y aquí tenemos que quitar esa parte que dice, OK, ahora ejecuta la función pasada una vez, la función pasada dos veces, la función pasada dos veces, lo que significa que en algún lugar aquí la función Lambda está apagando tres veces para tres diferentes tablas. Esa es mi asumpción. OK. OK. OK. OK. OK. No, no, no. OK, OK. Bueno, quiero decir, estamos ahora en una situación en la que he puesto una aproximación a una solución que tal vez funciona, tal vez no, tal vez estamos perdiendo algo en el medio, pero la cosa es, si escribimos un folder específico para, digamos, clientes o departamentos, parece que la data que hay ya está estandarizada. No. OK. OK. Ah. Sí. Sí. Sí. No. OK. Ah. Sí. Sí. Sí. OK. No. Sí. Sí. Sí. Sí.",
-  "usage": {
-    "type": "duration",
-    "seconds": 256
-  }
-}
